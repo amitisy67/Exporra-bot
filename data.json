@@ -1,0 +1,38 @@
+[
+    {
+        "step": "contact_method",
+        "product": "ظروف یک‌بار مصرف",
+        "amount": "۱۰کیلو",
+        "company": "آمیتیس",
+        "name": "آمیتیس یوسفی",
+        "phone": "09109405180",
+        "contact_method": "تلفن"
+    },
+    {
+        "step": "contact_method",
+        "product": "لیوان",
+        "amount": "۳۰ کیلو",
+        "company": "آمیتیس",
+        "name": "ناتسومی",
+        "phone": "09109405180",
+        "contact_method": "تلفن"
+    },
+    {
+        "step": "contact_method",
+        "product": "لیوان",
+        "amount": "۵ تن",
+        "company": "ایو",
+        "name": "آمیتیس یوسفی",
+        "phone": "09109405180",
+        "contact_method": "واتساپ"
+    },
+    {
+        "step": "contact_method",
+        "product": "لیوان",
+        "amount": "۵تن",
+        "company": "آمیتیس",
+        "name": "آمیتیس یوسفی",
+        "phone": "09109405180",
+        "contact_method": "تلفن"
+    }
+]
