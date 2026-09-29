@@ -1,8 +1,8 @@
-# 🌍 Rubika Business Bot
+# 🌍Exporra Rubika Business Bot
 
 ## 📌 About the Project
 
-**Rubika Business Bot** is a Python-based business assistant bot built with **PyRubi** for a B2B import/export business.
+**Rubika Business Bot** is a Python-based business assistant bot built with **rubka** for a B2B import/export business.
 
 The project was created to provide customers with a simple and accessible way to learn about the business, explore its services, and find contact information directly through the Rubika application.
 
