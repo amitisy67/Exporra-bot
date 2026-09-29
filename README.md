@@ -32,26 +32,8 @@ Users can interact with the bot directly through the Rubika application and acce
 * 🔎 **Regular Expressions**
 
 ## ▶️ How to Run
-
-### 1. Install the required package
-
-```bash
-pip install pyrubi
-```
-
-### 2. Configure the bot
-
-Create your PyRubi session and configure the required authentication information in the project.
-
-> 🔐 Do not share or upload private authentication data, session files, or other sensitive information to GitHub.
-
-### 3. Run the bot
-
-```bash
-python bot.py
-```
-
-Once the bot is running, you can **use the application directly through Rubika** and interact with the bot using its available commands.
+If you'd like to try this project, you can find Exporra on Rubika. 
+Rubika:@ExporraBot
 
 ## 📌 Note
 
