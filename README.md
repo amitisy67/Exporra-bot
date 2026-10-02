@@ -27,7 +27,7 @@ Users can interact with the bot directly through the Rubika application and acce
 ## 🛠️ Technologies Used
 
 * 🐍 **Python**
-* 🤖 **PyRubi**
+* 🤖 **Rubka library**
 * 🔌 **WebSocket**
 * 🔎 **Regular Expressions**
 
