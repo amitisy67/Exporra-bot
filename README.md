@@ -8,14 +8,6 @@ The project was created to provide customers with a simple and accessible way to
 
 This repository contains an **anonymized version** of the original project. Private business information, names, phone numbers, and other sensitive details have been removed.
 
-## 🎬 Demo
-
-See how the bot works in action ✨
-
-<video src="https://github.com/amitisy67/Exporra-bot/raw/main/InShot_20260929_201753342.mp4" controls width="320"></video>
-
-▶️ If the video doesn't load, [watch it here](https://github.com/amitisy67/Exporra-bot/blob/main/InShot_20260929_201753342.mp4) 🎀
-
 ## 🤖 What Does It Do?
 
 The bot acts as a digital business assistant. It automatically responds to user commands and provides relevant information about the business.
